@@ -1,0 +1,20 @@
+class G
+{
+	static int i = test();
+	static int test()
+	{
+		System.out.println("from test begin:" + i);
+		i += 5;
+		main(null);
+		System.out.println("from test middle:" + i);
+		i += 15;
+		main(null);
+		System.out.println("from test end:" + i);
+		return i + 20;
+	}
+	public static void main(String[] args) 
+	{
+		System.out.println("main" +i);
+		i += 10;
+	}
+}

@@ -2,31 +2,46 @@ app1	:	Hello world dev
 app2	:	Literals and single line comments
 app3	:	println and print
 app4	:	variables
+
 app5	:	identifiers, keywords and multi line comments 
 app6 :	built-in
 app7 :	concatenation
 app8 :	Mathmatical Operators
 app9 :	Boolean Operators
 app10 :	Logical Operators
+
 app11 :	Unary Operators
 			++(incrementing one unit in the variable)
 			--(decrementing one unit in the variable)
 app12 :	command line arguments
 app13 :	decimal to binary and binary to decimal
 app14 :	bitwise operator
+
 app15 :	if blocks
 app16 :	sequential if blocks
 app17 :	nested if blocks
 app18 :	else blocks
 app19 :	if-else blocks inside an if block
+
 app20 :	if blocks inside an else block
 app21 :	ternary operator
 app22 :	switch-case-default
+
 app23 :	Table switch and lookup switch
 app24 :
 app25 :	
 app26 : 	for loops   1 for loop
 				2 while loop
 				3 do while loop
-app27 :
-app33 : 	methord return types 
+app27 :	nested loops and lebeled loops
+
+app28 :	while loops
+app29 :	do-while loops
+app30 : 	for each loops
+app31 : 	methords
+app32 : 	methord parameter arguments
+
+app33 : 	methord return types
+app34 : 	methords in unary operator 
+app35 : 	attributes/ fields/ global variables
+app36 : 	static initializers

@@ -8,7 +8,7 @@ class W
 		System.out.println("-----------");
 		System.out.println("sum:"2000 + test());
 		System.out.println("------------");
-		System.out.println(test() + test()+ "is sum");
+		System.out.println(test() + test() + "is sum");
 		System.out.println("-----------");
 		System.out.println("main end" );
 	}
