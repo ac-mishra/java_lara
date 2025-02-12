@@ -1,0 +1,9 @@
+class Ac 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World! First line");
+		System.out.println("Hello World! Second line");
+		System.out.println("Hello World! Third line");
+	}
+}

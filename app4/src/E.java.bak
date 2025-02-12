@@ -1,0 +1,11 @@
+class E 
+{
+	public static void main(String[] args) 
+	{
+		int i;		//declaration
+		i = 20;		//initialization
+		System.out.println(i);
+		i = 30;
+		System.out.println(i);
+	}
+}

@@ -1,0 +1,24 @@
+class C
+{
+	public static void main(String[] args) 
+	{ 
+		int i = 5;
+		switch(i)
+		{
+			case 3:
+				System.out.println("from case3");
+				break;
+			case 15:
+				System.out.println("from case15");
+				break;
+			case 61:
+				System.out.println("from case61");
+				break;
+			case 800:
+				System.out.println("from case800");
+				break;
+			default case: 5;
+				System.out.println(5);
+		}
+	}
+}

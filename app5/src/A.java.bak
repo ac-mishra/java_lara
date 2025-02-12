@@ -1,0 +1,23 @@
+/*
+	ytjmjtmjt
+	ymummtyev
+	vwhtyjtehvrtb
+	beehrybhyjyu
+	beehrybhyjyu
+	beehrybhyjyu
+
+	1. first letter ==>any alphabet (or) _ (or) $
+	2. remaining letters ==>any alphabet (or) _ (or) $ (or) any digit
+	3. no keyword can br choosed as an idenifier
+
+
+
+*/
+class A 
+{
+	public static void main(String[] args) 
+	{
+		int t = 30;
+		System.out.println("Hello World!");
+	}
+}
