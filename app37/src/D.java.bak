@@ -1,0 +1,14 @@
+class D 
+{
+	static int i;
+
+	static
+	{
+		System.out.println(i);	//read
+		i = 200;		//write
+	}
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}

@@ -10,7 +10,7 @@ class A
 	}
 	static int test (int i)
 	{
-		System out.println("test:" + i);
+		System.out.println("test:" + i);
 		return i++;
 	}
 }

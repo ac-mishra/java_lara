@@ -8,5 +8,6 @@ class M
 	static int test()
 	{
 		System.out.println("test");
+	
 	}
 }

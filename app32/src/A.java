@@ -11,3 +11,4 @@ class A
 		System.out.println("test:" + i);
 	}
 }
+

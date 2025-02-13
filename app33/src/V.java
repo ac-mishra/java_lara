@@ -7,7 +7,7 @@ class V
 		System.out.println("-----------");
 		System.out.println(2000 + test());
 		System.out.println("------------");
-		System.out.println(test() + test());
+		System.out.println("test()" + test());
 		System.out.println("-----------");
 		System.out.println("main end" );
 	}

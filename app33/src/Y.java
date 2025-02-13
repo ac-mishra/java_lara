@@ -5,7 +5,7 @@ class Y
 		System.out.println("main begin");
 		if(test())
 		{
-			System out.println("from if");
+			System.out.println("from if");
 		}
 		System.out.println("main end:" );
 	}

@@ -45,3 +45,6 @@ app33 : 	methord return types
 app34 : 	methords in unary operator 
 app35 : 	attributes/ fields/ global variables
 app36 : 	static initializers
+app37 : 	IFR
+app38 : 	using other class members in another 			class
+app39 : 	class, object and references

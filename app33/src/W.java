@@ -6,7 +6,7 @@ class W
 		int i = 1000 + test();
 		System.out.println("abc:" + test() +i);
 		System.out.println("-----------");
-		System.out.println("sum:"2000 + test());
+		System.out.println("sum:"+ 2000 + test());
 		System.out.println("------------");
 		System.out.println(test() + test() + "is sum");
 		System.out.println("-----------");
