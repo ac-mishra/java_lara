@@ -10,7 +10,7 @@ class C
 	}
 	static int test (int i)
 	{
-		System out.println("test:" + i);	//6
+		System.out.println("test:" + i);	//6
 		return i++ + i;		//13
 	}
 }

@@ -28,8 +28,8 @@ app21 :	ternary operator
 app22 :	switch-case-default
 
 app23 :	Table switch and lookup switch
-app24 :
-app25 :	
+app24 :	unary operator with logical operator
+app25 :	unary operator with if block
 app26 : 	for loops   1 for loop
 				2 while loop
 				3 do while loop
@@ -45,6 +45,10 @@ app33 : 	methord return types
 app34 : 	methords in unary operator 
 app35 : 	attributes/ fields/ global variables
 app36 : 	static initializers
+
 app37 : 	IFR
-app38 : 	using other class members in another 			class
+app38 : 	using other class members in another 	class
 app39 : 	class, object and references
+
+app40 :	this as a reference variable
+app41 : 	constructor
