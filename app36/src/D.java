@@ -1,7 +1,7 @@
 class D
 {
 	static int i = test();		
-	static int J = test();		
+	static int j = test();		
 
 	static int test()
 	{

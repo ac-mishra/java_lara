@@ -3,7 +3,7 @@ class N
 	public static void main(String[] args) 
 	{
 		int i = 1;
-		loop1;
+		loop1:
 		while(i <= 5 )		
 		{
 			System.out.println("loop body begin:" + i);

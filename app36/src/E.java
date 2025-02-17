@@ -5,7 +5,7 @@ class E
 
 	static int test1()
 	{
-		System.out.println("test1" + i + ", " + j);
+		System.out.println("test1:" + i + ", " + j);
 		i = i + j + 2;
 		j = i + j + 3;
 		return  i + j + 5;				

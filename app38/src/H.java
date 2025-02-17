@@ -1,4 +1,4 @@
 class H 
 {
-	static int a;
+	static String a;
 }

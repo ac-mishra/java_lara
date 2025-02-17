@@ -7,8 +7,9 @@ class F
 			System.out.println("loop body begin:" + i);
 			if (i == 6)
 			{
-				System.out.println("loop body end:" + i);
+				System.out.println(" if loop body end:" + i);
 				continue;
+			
 			}
 			System.out.println("loop body end:" + i);
 		}

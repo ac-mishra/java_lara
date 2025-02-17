@@ -8,7 +8,7 @@ class D
 			return;
 		}
 		
-			System.out.println("main end");	
+		System.out.println("main end");	
 	}
 	
 }

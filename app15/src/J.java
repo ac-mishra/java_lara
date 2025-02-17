@@ -4,7 +4,7 @@ class J
 	{
 		System.out.println("main begin");
 		boolean b1 = false;
-		if(!b1)
+		if(b1=!b1)
 		{
 			
 			System.out.println("if block:" + b1);	

@@ -8,6 +8,6 @@ class A
 			System.out.println("loop body:" + i);
 			i++;
 		}
-		System.out.println("main end:" + i )
+		System.out.println("main end:" + i );
 	}
 }

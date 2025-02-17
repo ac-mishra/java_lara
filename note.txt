@@ -51,4 +51,16 @@ app38 : 	using other class members in another 	class
 app39 : 	class, object and references
 
 app40 :	this as a reference variable
-app41 : 	constructor
+app41 : 	constructor, constructor  overloading , this calling statement
+app42 :	default constructor
+app43 :	IIB (instance initialization block)
+app44 :	inheritance
+app45 : 	square and rectangular patterns
+app46 :	packages
+app47 :	private access levels
+			private
+					<= this default means without a name
+			protcted 
+			public
+app48 :	default, protected and public access levels
+app49 : 	abstract classes

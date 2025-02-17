@@ -11,7 +11,7 @@ class A
 		A a1 = new A();
 		System.out.println(a1.i);
 		a1.i = 20;
-		a1.test();
+		A.test(a1);
 		System.out.println(a1.i);
 	}
 }

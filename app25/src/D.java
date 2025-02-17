@@ -8,7 +8,7 @@ class D
 			System.out.println(i);
 			i += 7;
 		}
-		else if (i++ == 1)
+		else if (i++ == 8)
 		{
 			System.out.println(i);
 			i += 9;

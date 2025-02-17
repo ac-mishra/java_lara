@@ -6,7 +6,7 @@ class H
 		test();
 		System.out.println("main end");
 	}
-	public static void test() 
+	public static int test() 
 	{
 		System.out.println("from test");
 		return 100;

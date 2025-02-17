@@ -22,6 +22,7 @@ class G
 		else if (i != 6)
 		{
 			//some statements
+			System.out.println("Hello World!");
 		}
 		System.out.println("Hello World!");
 	}

@@ -2,7 +2,7 @@ class H
 {
 	static
 	{
-		System.out.println("SIB")
+		System.out.println("SIB");
 	}
 	public static void main(String[] args) 
 	{

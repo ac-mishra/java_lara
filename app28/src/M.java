@@ -3,7 +3,7 @@ class M
 	public static void main(String[] args) 
 	{
 		int i = 1;
-		abs;
+		abs:
 		while(i <= 5 )		
 		{
 			System.out.println("loop body begin:" + i);

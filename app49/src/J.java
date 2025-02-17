@@ -1,0 +1,7 @@
+abstract class J
+{
+	J()
+	{
+		
+	}
+}

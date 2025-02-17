@@ -6,7 +6,7 @@ class G
 {
 	static String[] a;
 	static int[] b;
-	static boolean[] b;
+	static boolean[] c;
 	public static void main(String[] args) 
 	{
 		System.out.println(a);

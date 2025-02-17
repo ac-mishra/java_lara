@@ -6,7 +6,7 @@ class F
 {
 	static String a;
 	static F b;
-	static A b;
+	static A c;
 	public static void main(String[] args) 
 	{
 		System.out.println(a);

@@ -11,7 +11,7 @@ class F
 				System.out.println("inner loop begin:" + i + ", " + j);
 				if (j == 102)
 				{
-					continue abca;
+					continue abc;
 				}
 				System.out.println("inner loop begin:" + i + ", " + j);
 			}
